@@ -1,2 +1,3 @@
 export * from './kafka.module';
-export * from './kafka.service';
+//constant
+export * from './constants/kafka.constants'
